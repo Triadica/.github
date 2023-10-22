@@ -9,4 +9,4 @@ WebGPU.art contains several experiments on WebGL/WebGPU rendering,
 
 View demos on https://webgpu.art/ .
 
-Main language is [Calcit](http://calcit-lang.org/), and some are using TypeScript.
+Main languages are WGSL and [Calcit](http://calcit-lang.org/), and some are using TypeScript.
